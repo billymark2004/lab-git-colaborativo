@@ -1,1 +1,1 @@
-# -lab-git-colaborativo
+# lab-git-colaborativo
